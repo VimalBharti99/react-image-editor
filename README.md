@@ -14,6 +14,48 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+#####  How to Use the App #####
+
+Search for Images
+
+On the home page, type anything like “cars”, “flowers”, “mountains”.
+
+Click the Search button.
+
+You will see images from the internet (Pixabay).
+
+Pick an Image
+
+Under each image, click Add Captions to open the editor.
+
+Edit the Image
+
+You can add:
+
+Text (click Add Text)
+
+Shapes (Rectangle, Circle, Triangle, Polygon)
+
+Move and resize everything with your mouse.
+
+Download the Image
+
+When you’re done editing, click the Download Image button.
+
+The edited image will be saved to your computer.
+
+(Optional) See Layers
+
+Click Log Canvas Layers to see all added items in the console (for debugging or checking).
+
+
+
+
+
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
